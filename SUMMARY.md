@@ -31,3 +31,4 @@
 
 * [Home](ccore/home.md)
 * [Installation](ccore/installation.md)
+* [Permissions](ccore/permissions.md)

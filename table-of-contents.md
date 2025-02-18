@@ -1,16 +1,33 @@
 # Table of contents
 
-* [Welcome](broken-reference)
+* [Welcome](./)
 
 ## Helium
 
-* [Home](broken-reference)
-* [Guide](broken-reference)
-* [Permissions](broken-reference)
-* [Placeholders](broken-reference)
-* [WebEditor](broken-reference)
+* [Home](table-of-contents.md#helium)
+* [Guide](helium/guide.md)
+* [Permissions](helium/permissions.md)
+* [Placeholders](helium/placeholders.md)
+* [WebEditor](helium/webeditor.md)
 
 ## pWarps
 
-* [Permissions](broken-reference)
-* [Menu](broken-reference)
+* [Home](broken-reference)
+* [Permissions](pwarps/permissions.md)
+* [Menu](pwarps/menu.md)
+
+## Netherite
+
+* [Home](table-of-contents.md#netherit)
+* [Configuration](netherite/configuration.md)
+
+## Bedwars Setup
+
+* [Home](table-of-contents.md#bedwars-setu)
+* [Installation](bedwars-setup/installation.md)
+
+## cCore
+
+* [Home](table-of-contents.md#ccor)
+* [Installation](ccore/installation.md)
+* [Permissions](ccore/permissions.md)
