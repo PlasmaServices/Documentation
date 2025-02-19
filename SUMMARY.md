@@ -10,6 +10,7 @@
 * [Permissions](helium/permissions.md)
 * [Placeholders](helium/placeholders.md)
 * [WebEditor](helium/webeditor.md)
+* [API](helium/api.md)
 
 ## 🌘 pWarps
 
