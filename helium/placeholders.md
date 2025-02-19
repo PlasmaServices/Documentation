@@ -59,4 +59,6 @@ General Placeholders-
 * `<online-players>` - returns the current online players
 * `<max-players>` - returns the maximum amount of online players
 
-:bulb: TIP: Having issues? Contact us on our Discord
+{% hint style="info" %}
+**TIP** :bulb: Having issues? Contact us on our Discord
+{% endhint %}
