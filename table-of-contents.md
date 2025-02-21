@@ -13,7 +13,7 @@
 
 ## pWarps
 
-* [Home](broken-reference)
+* [Home](broken-reference/)
 * [Permissions](pwarps/permissions.md)
 * [Menu](pwarps/menu.md)
 
@@ -32,3 +32,9 @@
 * [Home](table-of-contents.md#ccor)
 * [Installation](ccore/installation.md)
 * [Permissions](ccore/permissions.md)
+
+## RandomKits Setup
+
+* [Home](randomkits-setup/home.md)
+* [Installation](randomkits-setup/installation.md)
+
