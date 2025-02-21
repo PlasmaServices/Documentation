@@ -33,3 +33,7 @@
 * [Home](ccore/home.md)
 * [Installation](ccore/installation.md)
 * [Permissions](ccore/permissions.md)
+
+## RANDOM KITS SETUP
+
+* [Home](random-kits-setup/home.md)
