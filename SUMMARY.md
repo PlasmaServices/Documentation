@@ -34,6 +34,7 @@
 * [Installation](ccore/installation.md)
 * [Permissions](ccore/permissions.md)
 
-## RANDOM KITS SETUP
+## RANDOMKITS SETUP
 
-* [Home](random-kits-setup/home.md)
+* [Home](randomkits-setup/home.md)
+* [Installation](randomkits-setup/installation.md)
