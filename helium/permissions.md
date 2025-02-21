@@ -1,8 +1,8 @@
 # Permissions
 
-Permissions-
+**Helium Permissions:**
 
-_Moderation Permissions:_\
+**Moderation Permissions:**\
 helium.logs.server\
 helium.logs.alts\
 helium.logs.request\
@@ -34,13 +34,13 @@ helium.command.vanish.see\
 helium.command.staffmode\
 helium.punishment.evidence.review
 
-_Server Monitor Permissions_\
+**Server Monitor Permissions**\
 helium.command.switch\
 helium.command.server.list\
 helium.command.server.info\
 helium.command.reboot
 
-_Essentials Permissions:_\
+**Essentials Permissions:**\
 helium.command.broadcast\
 helium.command.craft\
 helium.command.enchant\
@@ -75,21 +75,21 @@ helium.command.mutes\
 helium.command.warns\
 helium.command.blacklists
 
-_Tag Permissions:_\
+**Tag Permissions:**\
 helium.command.tag.create\
 helium.command.tag.delete\
 helium.command.tag.edit
 
-_Profile Permissions:_\
+**Profile Permissions:**\
 helium.command.chatcolor\
-helium.command.tag.\
+helium.command.tag.\<tag name>\
 helium.command.streaming\
 helium.command.discord.sync
 
-_Report Permissions:_\
+**Report Permissions:**\
 helium.command.reports
 
-_Rank Permissions:_\
+**Rank Permissions:**\
 helium.command.rank.create\
 helium.command.rank.delete\
 helium.command.rank.list\
@@ -97,34 +97,34 @@ helium.command.rank.edit\
 helium.command.grants\
 helium.command.grant
 
-_Coin Permissions:_\
+**Coin Permissions:**\
 helium.command.coins.add\
 helium.command.coins.take\
 helium.command.coins.set\
 helium.command.coins.logs
 
-_Note Permissions:_\
+**Note Permissions:**\
 helium.command.notes\
 helium.command.notes.add\
 helium.command.notes.remove
 
-_Chatlog Permissions:_\
+**Chatlog Permissions:**\
 helium.command.chatlogs\
 helium.command.chatlogs.clear
 
-_Commandlog Permissions:_\
+**Commandlog Permissions:**\
 helium.command.commandlogs\
 helium.command.commandlogs.clear
 
-_WebEditor Permissions:_\
+**WebEditor Permissions:**\
 helium.command.webeditor
 
-_Warp Permissions:_\
+**Warp Permissions:**\
 helium.command.setwarp\
 helium.command.warp\
 helium.command.warps\
 helium.command.delwarp
 
-_VPN Permissions:_\
+**VPN Permissions:**\
 helium.command.vpn.whitelist\
 helium.command.vpn.unwhitelist

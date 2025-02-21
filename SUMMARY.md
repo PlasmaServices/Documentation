@@ -6,6 +6,7 @@
 ## 🎈 Helium
 
 * [Home](helium/home.md)
+* [Installation](helium/installation.md)
 * [Guide](helium/guide.md)
 * [Permissions](helium/permissions.md)
 * [Placeholders](helium/placeholders.md)
