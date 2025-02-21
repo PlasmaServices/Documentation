@@ -1,7 +1,9 @@
 # Permissions
 
-Staff Permission:\
-\- pwarps.staff
+Staff Permission:
 
-Reload Permission:\
-\- pwarps.reload
+pwarps.staff
+
+Reload Permission:
+
+pwarps.reload
