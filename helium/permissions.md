@@ -84,7 +84,8 @@ helium.command.tag.edit
 helium.command.chatcolor\
 helium.command.tag.\<tag name>\
 helium.command.streaming\
-helium.command.discord.sync
+helium.command.discord.sync\
+helium.command.discord.unsync
 
 **Report Permissions:**\
 helium.command.reports
