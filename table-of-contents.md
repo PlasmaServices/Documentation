@@ -37,4 +37,5 @@
 
 * [Home](randomkits-setup/home.md)
 * [Installation](randomkits-setup/installation.md)
+* [Configuration](randomkits-setup/configuration.md)
 
