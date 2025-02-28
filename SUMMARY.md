@@ -19,6 +19,20 @@
 * [Permissions](pwarps/permissions.md)
 * [Menu](pwarps/menu.md)
 
+## RANDOMKITS SETUP
+
+* [Home](randomkits-setup/home.md)
+* [Installation](randomkits-setup/installation.md)
+* [Configuration](randomkits-setup/configuration.md)
+
+## PECONOMY
+
+* [Home](peconomy/home.md)
+* [Installation](peconomy/installation.md)
+* [Configuration](peconomy/configuration.md)
+* [Placeholders](peconomy/placeholders.md)
+* [Permissions](peconomy/permissions.md)
+
 ## 🎱 Netherite
 
 * [Home](netherite/home.md)
@@ -34,9 +48,3 @@
 * [Home](ccore/home.md)
 * [Installation](ccore/installation.md)
 * [Permissions](ccore/permissions.md)
-
-## RANDOMKITS SETUP
-
-* [Home](randomkits-setup/home.md)
-* [Installation](randomkits-setup/installation.md)
-* [Configuration](randomkits-setup/configuration.md)
