@@ -32,7 +32,11 @@ helium.command.alts\
 helium.command.vanish\
 helium.command.vanish.see\
 helium.command.staffmode\
-helium.punishment.evidence.review
+helium.punishment.evidence.review\
+helium.command.chat.mute\
+helium.command.chat.unmute\
+helium.command.chat.slow\
+helium.command.chat.clear
 
 **Server Monitor Permissions**\
 helium.command.switch\
