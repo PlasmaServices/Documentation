@@ -13,6 +13,17 @@
 * [WebEditor](helium/webeditor.md)
 * [API](helium/api.md)
 
+## 🤖 PlasmaBot
+
+* [Home](plasmabot/home.md)
+* [Installation](plasmabot/installation.md)
+* [Guide](plasmabot/guide/README.md)
+  * [Tickets](plasmabot/guide/tickets.md)
+  * [Suggestions](plasmabot/guide/suggestions.md)
+  * [Music](plasmabot/guide/music.md)
+  * [Custom Commands](plasmabot/guide/custom-commands.md)
+  * [Custom Embed Command](plasmabot/guide/custom-embed-command.md)
+
 ## 🌘 pWarps
 
 * [Home](pwarps/home.md)
