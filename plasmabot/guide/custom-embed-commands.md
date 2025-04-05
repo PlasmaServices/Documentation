@@ -1,4 +1,4 @@
-# Custom Embed Command
+# Custom Embed Commands
 
 ## Creating a command
 
@@ -7,7 +7,7 @@
 `ID`: Unique identifier for the command (2-32 characters, letters, numbers, and underscores only)\
 `Name`: Display name for the command\
 `Description`: Brief description of what the command does\
-`Embed_json`: JSON structure for the embed - [Example](custom-embed-command.md#json-structure)\
+`Embed_json`: JSON structure for the embed - [Example](custom-embed-commands.md#json-structure)\
 `Response`: Optional text message to accompany the embed\
 `Emoji`: Emoji to display with the command
 

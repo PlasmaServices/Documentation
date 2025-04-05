@@ -22,7 +22,7 @@
   * [Suggestions](plasmabot/guide/suggestions.md)
   * [Music](plasmabot/guide/music.md)
   * [Custom Commands](plasmabot/guide/custom-commands.md)
-  * [Custom Embed Command](plasmabot/guide/custom-embed-command.md)
+  * [Custom Embed Commands](plasmabot/guide/custom-embed-commands.md)
 
 ## 🌘 pWarps
 

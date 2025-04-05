@@ -11,6 +11,12 @@
 * [WebEditor](helium/webeditor.md)
 * [API](helium/api.md)
 
+## PlasmaBot
+
+* [Home](plasmabot/home.md)
+* [Installation](plasmabot/installation.md)
+* [Guide](plasmabot/guide/)
+
 ## pWarps
 
 * [Home](broken-reference/)
