@@ -133,3 +133,14 @@ helium.command.delwarp
 **VPN Permissions:**\
 helium.command.vpn.whitelist\
 helium.command.vpn.unwhitelist
+
+**Tip Permissions:**\
+helium.command.tips
+
+**MOTD Permissions:**\
+helium.command.motd\
+helium.command.motd.reload
+
+**Poll Permissions:**\
+helium.command.polladmin\
+helium.command.polls
