@@ -144,3 +144,7 @@ helium.command.motd.reload
 **Poll Permissions:**\
 helium.command.polladmin\
 helium.command.polls
+
+**2FA Permissions:**\
+helium.2fa.admin\
+helium.2fa.bypass
