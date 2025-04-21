@@ -23,6 +23,7 @@
   * [Music](plasmabot/guide/music.md)
   * [Custom Commands](plasmabot/guide/custom-commands.md)
   * [Custom Embed Commands](plasmabot/guide/custom-embed-commands.md)
+  * [Reaction Roles](plasmabot/guide/reaction-roles.md)
 
 ## 🌘 pWarps
 

@@ -5,3 +5,4 @@
 * [Music](music.md)
 * [Custom Commands](custom-commands.md)
 * [Custom Embed Commands](custom-embed-commands.md)
+* [Reaction Roles](reaction-roles.md)
