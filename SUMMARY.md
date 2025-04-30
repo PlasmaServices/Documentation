@@ -60,3 +60,10 @@
 * [Home](ccore/home.md)
 * [Installation](ccore/installation.md)
 * [Permissions](ccore/permissions.md)
+
+## pTeams
+
+* [Home](pteams/home.md)
+* [Installation](pteams/installation.md)
+* [Placeholders](pteams/placeholders.md)
+* [Permissions](pteams/permissions.md)
