@@ -33,12 +33,6 @@
 * [Home](table-of-contents.md#bedwars-setu)
 * [Installation](bedwars-setup/installation.md)
 
-## cCore
-
-* [Home](table-of-contents.md#ccor)
-* [Installation](ccore/installation.md)
-* [Permissions](ccore/permissions.md)
-
 ## RandomKits Setup
 
 * [Home](randomkits-setup/home.md)
