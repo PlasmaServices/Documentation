@@ -45,3 +45,10 @@
 * [Installation](randomkits-setup/installation.md)
 * [Configuration](randomkits-setup/configuration.md)
 
+## pTeams
+
+* [Home](pteams/home.md)
+* [Installation](pteams/installation.md)
+* [Placeholders](pteams/placeholders.md)
+* [Permissions](pteams/permissions.md)
+
