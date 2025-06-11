@@ -24,6 +24,7 @@
   * [Custom Commands](plasmabot/guide/custom-commands.md)
   * [Custom Embed Commands](plasmabot/guide/custom-embed-commands.md)
   * [Reaction Roles](plasmabot/guide/reaction-roles.md)
+  * [Web Dashboard](plasmabot/guide/web-dashboard.md)
 
 ## 🌘 pWarps
 

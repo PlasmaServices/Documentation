@@ -4,7 +4,7 @@
 
 This configures the basic settings for your ticket system.
 
-* `/ticket setup [category] [transcript_channel] [support_role]`&#x20;
+* `/ticket setup [category] [transcript_channel] [support_role] [closed_category] [retention_days] [inactivity_enabled] [inactivity_days] [high_volume_threshold]`&#x20;
 
 ## Adding ticket types
 

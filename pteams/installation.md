@@ -14,7 +14,7 @@ First, ensure you have all the required dependencies.
 
 Then, upload the pTeams.jar file you downloaded from our store or BuiltByBit.
 
-Then, restart your server and enter your license into the file at `plugins/pTeams/storage.yml`
+Then, restart your server and enter your license into the file at `plugins/pTeams/license.yml`
 
 You will then need to enter your MongoDB URI into the file at `plugins/pTeams/storage.yml`
 
