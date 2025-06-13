@@ -77,7 +77,9 @@ helium.command.playtime\
 helium.command.bans\
 helium.command.mutes\
 helium.command.warns\
-helium.command.blacklists
+helium.command.blacklists\
+helium.command.seen\
+helium.command.hat
 
 **Tag Permissions:**\
 helium.command.tag.create\
