@@ -22,6 +22,15 @@ General Placeholders-
 * `%helium_player_rank_expires%` - returns the duration of the player's highest rank grant (not rounded/formatted)
 * `%helium_player_friends%` - returns how many friends the player has
 * `%helium_player_online_friends%` - returns how many online friends the player has
+* `%helium_player_first_join%` - returns how long ago the player's first join was
+* `%helium_player_last_join%` - returns how long ago the player's most recent join was
+* `%helium_player_playtime%` - returns how much playtime the player has
+* `%helium_player_twitter%` - returns the player's linked Twitter link
+* `%helium_player_youtube%` - returns the player's linked YouTube link
+* `%helium_player_twitch%` - returns the player's linked Twitch link
+* `%helium_player_discord%` - returns the player's linked Discord profile
+* `%helium_discord_members%` - returns how many users are in the Discord
+* `%helium_discord_online_members%` - returns how many online users are in the Discord
 
 ### Tips.yml
 

@@ -8,4 +8,4 @@ Now, add an extra allocation to your server.
 
 **If you do not have Administrator access to your host, you may need to request an additional port.**
 
-Then in Helium settings.yml, change the port and domain to what you specified in your Pterodactyl Panel.
+Then in Helium `/modules/webeditor.yml`, change the port and domain to what you specified in your Pterodactyl Panel.
