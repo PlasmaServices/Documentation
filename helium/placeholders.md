@@ -31,6 +31,23 @@ General Placeholders-
 * `%helium_player_discord%` - returns the player's linked Discord profile
 * `%helium_discord_members%` - returns how many users are in the Discord
 * `%helium_discord_online_members%` - returns how many online users are in the Discord
+* `%helium_total_blacklists%` - returns how many blacklists there are&#x20;
+* `%helium_total_bans%` - returns how many bans there are
+* `%helium_total_mutes%` - returns how many mutes there are
+* `%helium_total_warns%` - returns how many warns there are&#x20;
+* `%helium_total_kicks%` - returns how many kicks there are
+* `%helium_total_punishments%` - returns how many total punishments there are&#x20;
+* `<mc>` - main color
+* `<sc>` - secondary color
+* `<ac>` - accent color
+* `<ec>` - error color
+* `<ssc>` - success color
+* `<fc>` - fail color
+* `<discord>` - discord link
+* `<store>` - store link
+* `<appeal>` - appeal link
+* `<network>` - network name
+* `<teamspeak>` - teamspeak link
 
 ### Tips.yml
 

@@ -79,7 +79,10 @@ helium.command.mutes\
 helium.command.warns\
 helium.command.blacklists\
 helium.command.seen\
-helium.command.hat
+helium.command.hat\
+helium.donation\
+helium.guide\
+helium.guide.reload
 
 **Tag Permissions:**\
 helium.command.tag.create\
@@ -108,7 +111,16 @@ helium.command.grant
 helium.command.coins.add\
 helium.command.coins.take\
 helium.command.coins.set\
-helium.command.coins.logs
+helium.command.coins.logs\
+helium.command.coins.coupon.create\
+helium.command.coins.coupon.delete\
+helium.command.coins.coupon.list\
+helium.command.coins.coupon.info\
+helium.command.coins.giftcard.create\
+helium.command.coins.shop.reload\
+helium.command.coins.shop.toggle\
+helium.command.coins.shop.info\
+helium.command.coinshop.admin
 
 **Note Permissions:**\
 helium.command.notes\
@@ -125,12 +137,6 @@ helium.command.commandlogs.clear
 
 **WebEditor Permissions:**\
 helium.command.webeditor
-
-**Warp Permissions:**\
-helium.command.setwarp\
-helium.command.warp\
-helium.command.warps\
-helium.command.delwarp
 
 **VPN Permissions:**\
 helium.command.vpn.whitelist\
