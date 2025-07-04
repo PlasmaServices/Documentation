@@ -68,3 +68,9 @@
 * [Installation](pteams/installation.md)
 * [Placeholders](pteams/placeholders.md)
 * [Permissions](pteams/permissions.md)
+
+## 🎮 pChatGames
+
+* [Home](pchatgames/home.md)
+* [Placeholders](pchatgames/placeholders.md)
+* [Permissions](pchatgames/permissions.md)
