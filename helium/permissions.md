@@ -55,6 +55,7 @@ helium.command.milk.others\
 helium.command.flight\
 helium.command.flight.others\
 helium.command.gamemode\
+\
 helium.command.give\
 helium.command.heal\
 helium.command.heal.others\
