@@ -157,3 +157,16 @@ helium.command.polls
 **2FA Permissions:**\
 helium.2fa.admin\
 helium.2fa.bypass
+
+**Hologram Permissions:**\
+helium.command.hologram\
+helium.command.hologram.create\
+helium.command.hologram.delete\
+helium.command.hologram.list\
+helium.command.hologram.info\
+helium.command.hologram.teleport\
+helium.command.hologram.move\
+helium.command.hologram.toggle\
+helium.command.hologram.edit\
+helium.command.hologram.test\
+helium.command.hologram.reload
